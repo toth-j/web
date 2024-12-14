@@ -1,3 +1,8 @@
+---
+title: "Weblap tervezése"
+layout: default
+---
+
 # Weblap tervezése
 
 **Először a szöveget kell elkészíteni, és a képeket összegyűjteni!** 
