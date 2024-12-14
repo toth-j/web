@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "index.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index.md"
             }
           },
           {
@@ -172,10 +172,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70f6e20428fc0c72",
+  "active": "5c44214604a2ede9",
   "lastOpenFiles": [
     "Design/01 Weblap tervezése/01 Weblap tervezése.md",
-    "README.md",
+    "index.md.md",
     "Új szöveges dokumentum.txt",
     "Web/README.md",
     "Web",
