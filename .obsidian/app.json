@@ -1,0 +1,11 @@
+{
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./images",
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative"
+}

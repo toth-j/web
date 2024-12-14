@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "d809bc26b8c2d310",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9ba58b0e53b73c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70f6e20428fc0c72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design/01 Weblap tervezése/01 Weblap tervezése.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "01 Weblap tervezése"
+            }
+          },
+          {
+            "id": "341e6944c6dedeab",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7e6ac3730a80baf",
+    "type": "split",
+    "children": [
+      {
+        "id": "38b40d67125f0d6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c44214604a2ede9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "926596ff7c4955d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "934693b7e9ec03ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211.5
+  },
+  "right": {
+    "id": "7b502fae51b27098",
+    "type": "split",
+    "children": [
+      {
+        "id": "81378b8e87902543",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f6c208f562def2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Design/01 Weblap tervezése/01 Weblap tervezése.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01 Weblap tervezése"
+            }
+          },
+          {
+            "id": "a8a1f851ce919349",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Design/01 Weblap tervezése/01 Weblap tervezése.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01 Weblap tervezése"
+            }
+          },
+          {
+            "id": "efe0d193d3d8b2ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d5c11fceff1a2ff2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Design/01 Weblap tervezése/01 Weblap tervezése.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01 Weblap tervezése"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5c44214604a2ede9",
+  "lastOpenFiles": [
+    "Web/README.md",
+    "Web",
+    "README.md",
+    "Design/01 Weblap tervezése/01 Weblap tervezése.md",
+    "Design/01 Weblap tervezése/images/Pasted image 20241214113744.png",
+    "Design/01 Weblap tervezése/images/Pasted image 20241214104353.png",
+    "Design/01 Weblap tervezése/images/Pasted image 20241214121445.png",
+    "Design/01 Weblap tervezése/images/Pasted image 20241214121326.png",
+    "Design/01 Weblap tervezése/images/Pasted image 20241214121307.png",
+    "Design/01 Weblap tervezése/images/Pasted image 20241214121301.png",
+    "Design/01 Weblap tervezése/images/Pasted image 20241214121138.png",
+    "Design/01 Weblap tervezése/images/Pasted image 20241214121042.png",
+    "Design/01 Weblap tervezése/images/Pasted image 20241214121012.png",
+    "Design/01 Weblap tervezése/images/Pasted image 20241214120947.png",
+    "Design/01 Weblap tervezése/images",
+    "Design/01 Weblap tervezése",
+    "Design/01 Weblap tervezése/images",
+    "Untitled"
+  ]
+}
