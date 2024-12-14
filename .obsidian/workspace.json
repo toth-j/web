@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design/01 Weblap tervezése/01 Weblap tervezése.md",
-                "mode": "preview",
-                "source": true
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Weblap tervezése"
+              "title": "README"
             }
           },
           {
@@ -172,12 +172,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c44214604a2ede9",
+  "active": "70f6e20428fc0c72",
   "lastOpenFiles": [
+    "Design/01 Weblap tervezése/01 Weblap tervezése.md",
     "README.md",
+    "Új szöveges dokumentum.txt",
     "Web/README.md",
     "Web",
-    "Design/01 Weblap tervezése/01 Weblap tervezése.md",
     "Design/01 Weblap tervezése/images/Pasted image 20241214113744.png",
     "Design/01 Weblap tervezése/images/Pasted image 20241214104353.png",
     "Design/01 Weblap tervezése/images/Pasted image 20241214121445.png",
